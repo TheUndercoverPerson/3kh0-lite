@@ -1,6 +1,5 @@
 console.warn(
   "%cHello!!", "color: red; font-weight: 600; background: yellow; padding: 0 5px; border-radius: 5px",
-  "Feel free to use anything you find here for your projects; credit is appreciated but not required!"
 );
 
 const local_title = localStorage.getItem("title");
